@@ -1,4 +1,5 @@
 # Scramblify
+![Screenshot 2024-09-04 202430](https://github.com/user-attachments/assets/7c3045af-ff1c-443e-832e-09b1c563df5a)
 
 ## Overview
 
