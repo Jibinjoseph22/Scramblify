@@ -1,0 +1,4 @@
+numpy
+Pillow
+tkinterdnd2
+pycryptodome
